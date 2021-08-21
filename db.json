@@ -5,6 +5,12 @@
       "body": "I love to watch and play cricket.",
       "author": "Chinmay",
       "id": 1
+    },
+    {
+      "title": "Football",
+      "body": "I love to watch and play Football.",
+      "author": "Manthan",
+      "id": 2
     }
   ]
 }
